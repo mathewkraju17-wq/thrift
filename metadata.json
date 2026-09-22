@@ -1,0 +1,6 @@
+{
+  "name": "TIC - Campus Thrift Marketplace",
+  "description": "A verified peer-to-peer campus thrift marketplace for university students featuring quality moderation rubrics, safe quad exchange zones, QR escrow handovers, and student arts showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
